@@ -9,12 +9,6 @@ const Contact = () => {
           <a href="mailto:3068231536@qq.com" className="contact-link">
             📧 3068231536@qq.com
           </a>
-          <a href="https://linkedin.com/in/qight" className="contact-link">
-            💼 linkedin.com/in/qight
-          </a>
-          <a href="https://behance.net/qight" className="contact-link">
-            🎨 behance.net/qight
-          </a>
         </div>
       </div>
     </section>
